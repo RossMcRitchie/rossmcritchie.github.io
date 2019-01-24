@@ -226,7 +226,7 @@ input, select, textarea {
 
 	h2 {
 		font-weight: 900;
-		line-height: 1.5;
+		line-height: 1.2;
 		margin: 0 0 2em 0;
 		text-transform: uppercase;
 		letter-spacing: 0.2em;
@@ -234,7 +234,7 @@ input, select, textarea {
 		font-size: 1.4em;
 		color: gray;
 		-webkit-text-fill-color: white;
-		-webkit-text-stroke-width: 2px;
+		-webkit-text-stroke-width: 1.5px;
 		-webkit-text-stroke-color: black;
 	}
 
