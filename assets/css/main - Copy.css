@@ -316,10 +316,10 @@ body {
 		text-transform: uppercase;
 		letter-spacing: 0.2em;
 		
-		font-size: 1.4em;
+		font-size: 1.8em;
 		color: gray;
 		-webkit-text-fill-color: white;
-		-webkit-text-stroke-width: 2px;
+		-webkit-text-stroke-width: 1.4px;
 		-webkit-text-stroke-color: black;
 	}
 
