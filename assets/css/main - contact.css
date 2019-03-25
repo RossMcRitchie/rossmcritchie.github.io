@@ -91,12 +91,12 @@ body {
   }
   #navbar {
     order: 1 ;
-    width: 40%;
+    width: 50%;
 	height: 100%;
   }
   #content {
     order: 2 ;
-    width: 60% ;
+    width: 50% ;
 	height: 100%;
   }
   
@@ -105,9 +105,9 @@ body {
 	 
 	  margin-right: 10%; 
 	  padding-bottom: 25px;
-	  padding-left: 16px; 
-	  padding-right: 16px; 
-	  padding-top: 1px;"
+	  padding-left: 0px; 
+	  padding-right: 0px; 
+	  padding-top: 0px;"
 	  font-size: 0.8em;
 	  margin-bottom: 0em;
 	  
@@ -138,6 +138,7 @@ body {
   #content {
     order: 1 ;
     width: 100% ;
+	font-size: 1.2em;
   }
   
   #summary{
@@ -145,9 +146,9 @@ body {
 	  
 	  margin-right: 0%; 
 	  padding-bottom: 25px; 
-	  padding-left: 5px; 
-	  padding-right: 16px; 
-	  padding-top: 20px;
+	  padding-left: 0px; 
+	  padding-right: 0px; 
+	  padding-top: 0px;
 	  font-size: 1.2em;
 	  margin-bottom: 2em;
 	  
@@ -164,7 +165,14 @@ body {
 }
 
 } 
+.headertext{
+	
+	padding-top: 3em;
+	
+	
+}
  
+
  .videoWrapper {
     position: relative;
     padding-bottom: 56.25%; /* 16:9 */
@@ -385,7 +393,6 @@ body {
 	}
 	
 	
-
 	@media screen and (max-width: 980px) {
 
 		h1 br, h2 br, h3 br, h4 br, h5 br, h6 br {
@@ -3457,7 +3464,7 @@ body {
 		width: 100%;
 		max-width: 68em;
 		margin: 0 auto;
-		padding: 0 15em;
+		padding: 0 12em;
 	}
 
 		@media screen and (max-width: 736px) {

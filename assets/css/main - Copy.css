@@ -130,6 +130,7 @@ body {
   #content {
     order: 1 ;
     width: 100% ;
+	font-size: 1.2em;
   }
   
   #summary{
@@ -148,6 +149,8 @@ body {
   
 
 } 
+
+
  
  .videoWrapper {
     position: relative;
